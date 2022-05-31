@@ -1,0 +1,4 @@
+*Leitura CSV:
+-Percebi que os nomes também são divididos por ponto e vírgula, o que iria gerar problema no
+split da leitura. Porém, reparei também que os nomes que são compostos se iniciam com aspas,
+então usei isso para solucionar essa questão e ler todos corretamente
